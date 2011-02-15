@@ -1,9 +1,8 @@
 # -*- encoding: utf-8 -*-
-VERSION = "0.1.1"
 
 Gem::Specification.new do |s|
   s.name        = "redis-messages"
-  s.version     = VERSION
+  s.version     = "0.1.1"
   s.author      = "Seivan Heidari"
   s.email       = "seivan@kth.se"
   s.homepage    = "http://github.com/seivan/redis-messages"
